@@ -1,0 +1,2 @@
+# ReportePractica01OscarVazquezMendez
+fundamentos de programacion
